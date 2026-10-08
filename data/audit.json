@@ -1,0 +1,27 @@
+{
+  "n": 421,
+  "source_sha256": "a6fc3c99835d1ca3230c5b69ad9761ffad1fb25bf982a9a013c133086b2a83ab",
+  "source_unchanged": true,
+  "strict_edges": 86,
+  "isolates": 297,
+  "old_padded_edges": 88,
+  "old_cross_length_edges": 2,
+  "old_padded_Q80": {
+    "HH": 8,
+    "HL": 15,
+    "LL": 65,
+    "high_anchor_pairs": 31,
+    "low_anchor_pairs": 145,
+    "p_high_neighbor_high_anchor": 0.5161290322580645,
+    "p_high_neighbor_low_anchor": 0.10344827586206896,
+    "difference": 0.41268075639599555,
+    "lift_vs_low": 4.989247311827957
+  },
+  "high_threshold_Q80": 1143619.5949644223,
+  "high_count": 85,
+  "definition": "Hamming only defined for same-length sequences; cross-length pairs excluded",
+  "layout": "per-length 2D classical MDS of Hamming distance; independent of labels; approximate, not exact geometry",
+  "measurements": "norm: fluorescence/OD600, per-sequence means as supplied",
+  "permutation": "10000 label permutations within length, all high/low roles recomputed, one-sided positive-association test; Holm8",
+  "caveat": "retrospective measured sample only; edge observations share nodes; significance does not prove best acquisition policy"
+}

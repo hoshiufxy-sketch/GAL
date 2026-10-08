@@ -1,0 +1,3656 @@
+{
+  "source": "C:\\Users\\admin\\Desktop\\FXY\\OMG\\GAL\\New Data.xlsx",
+  "sha256": "08144cedeb3534214f9b3c0d9203b37619b75e221dafdc1b3f8329df989c4b74",
+  "sheet": "Sheet1",
+  "records": [
+    {
+      "group": "Initial library",
+      "excel_row": 2,
+      "sequence": "TTTCTCC",
+      "raw": 1090931.0,
+      "od": 1.356,
+      "normalized": 804521.3864306784
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 3,
+      "sequence": "TTGCTA",
+      "raw": 1608763.0,
+      "od": 1.363,
+      "normalized": 1180310.3448275863
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 4,
+      "sequence": "TTGCCTAG",
+      "raw": 2349459.0,
+      "od": 1.952,
+      "normalized": 1203616.2909836066
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 5,
+      "sequence": "TTGCCA",
+      "raw": 2388684.0,
+      "od": 1.993,
+      "normalized": 1198536.8790767686
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 6,
+      "sequence": "TTGCAC",
+      "raw": 1377400.0,
+      "od": 1.387,
+      "normalized": 993078.5868781543
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 7,
+      "sequence": "TTGATC",
+      "raw": 1724279.0,
+      "od": 1.434,
+      "normalized": 1202426.080892608
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 8,
+      "sequence": "TTCTAA",
+      "raw": 2199123.0,
+      "od": 1.972,
+      "normalized": 1115173.9350912778
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 9,
+      "sequence": "TTCGTACA",
+      "raw": 1813088.0,
+      "od": 1.83,
+      "normalized": 990758.4699453552
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 10,
+      "sequence": "TTCGCGCC",
+      "raw": 1968092.0,
+      "od": 1.604,
+      "normalized": 1226990.0249376558
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 11,
+      "sequence": "TTCCTTG",
+      "raw": 1504491.0,
+      "od": 1.458,
+      "normalized": 1031886.8312757201
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 12,
+      "sequence": "TTCCTC",
+      "raw": 1723951.0,
+      "od": 1.988,
+      "normalized": 867178.5714285715
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 13,
+      "sequence": "TTCCGGAC",
+      "raw": 1260223.0,
+      "od": 1.714,
+      "normalized": 735252.625437573
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 14,
+      "sequence": "TTCAAACT",
+      "raw": 2358102.0,
+      "od": 1.839,
+      "normalized": 1282274.0619902122
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 15,
+      "sequence": "TTAGGC",
+      "raw": 230892.0,
+      "od": 1.089,
+      "normalized": 212022.03856749312
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 16,
+      "sequence": "TTACCGCG",
+      "raw": 1985819.0,
+      "od": 1.649,
+      "normalized": 1204256.5191024863
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 17,
+      "sequence": "TTAATC",
+      "raw": 1665056.0,
+      "od": 1.415,
+      "normalized": 1176718.0212014134
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 18,
+      "sequence": "TTAACCG",
+      "raw": 1010377.0,
+      "od": 1.673,
+      "normalized": 603931.2612074118
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 19,
+      "sequence": "TGTGAC",
+      "raw": 1679790.0,
+      "od": 1.997,
+      "normalized": 841156.735102654
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 20,
+      "sequence": "TGTGAA",
+      "raw": 1797094.0,
+      "od": 1.998,
+      "normalized": 899446.4464464465
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 21,
+      "sequence": "TGTCCCCA",
+      "raw": 2089393.0,
+      "od": 1.827,
+      "normalized": 1143619.5949644225
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 22,
+      "sequence": "TGGCAGCA",
+      "raw": 2115954.0,
+      "od": 1.653,
+      "normalized": 1280068.9655172413
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 23,
+      "sequence": "TGGACT",
+      "raw": 491902.0,
+      "od": 1.867,
+      "normalized": 263471.88002142473
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 24,
+      "sequence": "TGCATAAC",
+      "raw": 1656480.0,
+      "od": 1.779,
+      "normalized": 931129.8482293424
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 25,
+      "sequence": "TGATGCAA",
+      "raw": 1722330.0,
+      "od": 1.833,
+      "normalized": 939623.5679214402
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 26,
+      "sequence": "TGAGAC",
+      "raw": 1593529.0,
+      "od": 1.444,
+      "normalized": 1103551.9390581718
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 27,
+      "sequence": "TGACTGCC",
+      "raw": 2348368.0,
+      "od": 1.662,
+      "normalized": 1412977.1359807462
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 28,
+      "sequence": "TGACTGAT",
+      "raw": 469915.0,
+      "od": 1.153,
+      "normalized": 407558.54293148307
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 29,
+      "sequence": "TGAACT",
+      "raw": 1451017.0,
+      "od": 1.449,
+      "normalized": 1001391.994478951
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 30,
+      "sequence": "TGAACC",
+      "raw": 1222927.0,
+      "od": 1.846,
+      "normalized": 662473.9978331528
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 31,
+      "sequence": "TGAAAAAT",
+      "raw": 2140318.0,
+      "od": 1.902,
+      "normalized": 1125298.633017876
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 32,
+      "sequence": "TGAAAA",
+      "raw": 1402780.0,
+      "od": 1.996,
+      "normalized": 702795.5911823647
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 33,
+      "sequence": "TCTCCG",
+      "raw": 1716200.0,
+      "od": 1.979,
+      "normalized": 867205.6594239514
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 34,
+      "sequence": "TCTCCG",
+      "raw": 1294979.0,
+      "od": 1.95,
+      "normalized": 664091.7948717949
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 35,
+      "sequence": "TCTCCCCG",
+      "raw": 1930673.0,
+      "od": 1.909,
+      "normalized": 1011353.0644316396
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 36,
+      "sequence": "TCTCAT",
+      "raw": 1102385.0,
+      "od": 1.915,
+      "normalized": 575657.9634464752
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 37,
+      "sequence": "TCTATTCG",
+      "raw": 1682175.0,
+      "od": 1.771,
+      "normalized": 949844.7204968944
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 38,
+      "sequence": "TCTATGA",
+      "raw": 1203662.0,
+      "od": 1.513,
+      "normalized": 795546.5961665566
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 39,
+      "sequence": "TCGTTT",
+      "raw": 1666833.0,
+      "od": 1.401,
+      "normalized": 1189745.1820128479
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 40,
+      "sequence": "TCGTCCCA",
+      "raw": 1687643.0,
+      "od": 1.823,
+      "normalized": 925750.4114097642
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 41,
+      "sequence": "TCGGTCA",
+      "raw": 1186383.0,
+      "od": 1.518,
+      "normalized": 781543.4782608695
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 42,
+      "sequence": "TCGGGC",
+      "raw": 571191.0,
+      "od": 1.308,
+      "normalized": 436690.36697247706
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 43,
+      "sequence": "TCGACAAC",
+      "raw": 1157188.0,
+      "od": 1.48,
+      "normalized": 781883.7837837838
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 44,
+      "sequence": "TCCTCAAC",
+      "raw": 2141226.0,
+      "od": 1.395,
+      "normalized": 1534929.0322580645
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 45,
+      "sequence": "TCCGGT",
+      "raw": 1530673.0,
+      "od": 1.926,
+      "normalized": 794741.9522326065
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 46,
+      "sequence": "TCCGGAGT",
+      "raw": 2053220.0,
+      "od": 1.857,
+      "normalized": 1105665.0511577814
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 47,
+      "sequence": "TCCCTG",
+      "raw": 1588005.0,
+      "od": 1.98,
+      "normalized": 802022.7272727273
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 48,
+      "sequence": "TCCCAGAC",
+      "raw": 1940578.0,
+      "od": 1.774,
+      "normalized": 1093899.6617812852
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 49,
+      "sequence": "TCCCAG",
+      "raw": 1485786.0,
+      "od": 1.935,
+      "normalized": 767848.0620155039
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 50,
+      "sequence": "TCCAGGTG",
+      "raw": 1407261.0,
+      "od": 1.722,
+      "normalized": 817224.7386759582
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 51,
+      "sequence": "TCCACTT",
+      "raw": 1602873.0,
+      "od": 1.691,
+      "normalized": 947884.6836191602
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 52,
+      "sequence": "TCCACCC",
+      "raw": 1262933.0,
+      "od": 1.511,
+      "normalized": 835825.9430840503
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 53,
+      "sequence": "TCATTAAC",
+      "raw": 1505341.0,
+      "od": 1.927,
+      "normalized": 781183.7052413077
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 54,
+      "sequence": "TCAGCCG",
+      "raw": 1511868.0,
+      "od": 1.645,
+      "normalized": 919068.6930091185
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 55,
+      "sequence": "TCAGCCCG",
+      "raw": 487424.0,
+      "od": 1.081,
+      "normalized": 450901.01757631823
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 56,
+      "sequence": "TCACTC",
+      "raw": 210690.0,
+      "od": 1.84,
+      "normalized": 114505.43478260869
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 57,
+      "sequence": "TCACCC",
+      "raw": 1404985.0,
+      "od": 1.998,
+      "normalized": 703195.6956956957
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 58,
+      "sequence": "TCAACTGG",
+      "raw": 1319698.0,
+      "od": 1.695,
+      "normalized": 778582.8908554572
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 59,
+      "sequence": "TATTGG",
+      "raw": 1572218.0,
+      "od": 1.385,
+      "normalized": 1135175.4512635379
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 60,
+      "sequence": "TATTCTG",
+      "raw": 1302585.0,
+      "od": 1.791,
+      "normalized": 727294.8073701843
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 61,
+      "sequence": "TATTCACC",
+      "raw": 1966869.0,
+      "od": 1.815,
+      "normalized": 1083674.3801652894
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 62,
+      "sequence": "TATGCTGC",
+      "raw": 1540369.0,
+      "od": 1.773,
+      "normalized": 868792.4421883813
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 63,
+      "sequence": "TATCCT",
+      "raw": 1009244.0,
+      "od": 1.939,
+      "normalized": 520497.16348633316
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 64,
+      "sequence": "TATCCGCT",
+      "raw": 1066974.0,
+      "od": 1.456,
+      "normalized": 732811.8131868133
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 65,
+      "sequence": "TATAGAAC",
+      "raw": 2238363.0,
+      "od": 1.844,
+      "normalized": 1213862.798264642
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 66,
+      "sequence": "TATAGAAC",
+      "raw": 1914734.0,
+      "od": 1.801,
+      "normalized": 1063150.4719600223
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 67,
+      "sequence": "TATACC",
+      "raw": 504438.0,
+      "od": 1.766,
+      "normalized": 285638.73159682896
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 68,
+      "sequence": "TATACC",
+      "raw": 350035.0,
+      "od": 1.315,
+      "normalized": 266186.3117870723
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 69,
+      "sequence": "TAGATGCC",
+      "raw": 1309108.0,
+      "od": 1.555,
+      "normalized": 841870.0964630225
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 70,
+      "sequence": "TAGATAAC",
+      "raw": 2368606.0,
+      "od": 1.736,
+      "normalized": 1364404.3778801844
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 71,
+      "sequence": "TACGGCC",
+      "raw": 2354173.0,
+      "od": 1.81,
+      "normalized": 1300648.0662983425
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 72,
+      "sequence": "TACGCCGA",
+      "raw": 1959006.0,
+      "od": 1.64,
+      "normalized": 1194515.8536585367
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 73,
+      "sequence": "TACCAGC",
+      "raw": 1254158.0,
+      "od": 1.469,
+      "normalized": 853749.4894486044
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 74,
+      "sequence": "TACCAAGC",
+      "raw": 2023648.0,
+      "od": 1.779,
+      "normalized": 1137519.9550309163
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 75,
+      "sequence": "TACCAA",
+      "raw": 1489256.0,
+      "od": 1.959,
+      "normalized": 760212.3532414497
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 76,
+      "sequence": "TACATACC",
+      "raw": 1687859.0,
+      "od": 1.883,
+      "normalized": 896366.9676048858
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 77,
+      "sequence": "TACAGT",
+      "raw": 1801221.0,
+      "od": 1.977,
+      "normalized": 911088.0121396055
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 78,
+      "sequence": "TACAGAG",
+      "raw": 1390426.0,
+      "od": 1.493,
+      "normalized": 931296.7180174146
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 79,
+      "sequence": "TAATTAGC",
+      "raw": 2024586.0,
+      "od": 1.785,
+      "normalized": 1134221.8487394957
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 80,
+      "sequence": "TAATACG",
+      "raw": 874897.0,
+      "od": 1.353,
+      "normalized": 646634.8854397635
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 81,
+      "sequence": "TAAGCT",
+      "raw": 1865226.0,
+      "od": 1.414,
+      "normalized": 1319113.1541725602
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 82,
+      "sequence": "GTTTTGG",
+      "raw": 2210225.0,
+      "od": 1.907,
+      "normalized": 1159006.2926061878
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 83,
+      "sequence": "GTTCTTG",
+      "raw": 1492641.0,
+      "od": 1.765,
+      "normalized": 845688.9518413598
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 84,
+      "sequence": "GTTACC",
+      "raw": 1834632.0,
+      "od": 1.966,
+      "normalized": 933180.0610376399
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 85,
+      "sequence": "GTGCACC",
+      "raw": 1418537.0,
+      "od": 1.637,
+      "normalized": 866546.7318265119
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 86,
+      "sequence": "GTCTTGG",
+      "raw": 2012077.0,
+      "od": 1.915,
+      "normalized": 1050692.9503916448
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 87,
+      "sequence": "GTCGTA",
+      "raw": 1449284.0,
+      "od": 1.867,
+      "normalized": 776263.5243706481
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 88,
+      "sequence": "GTCGGACC",
+      "raw": 1115842.0,
+      "od": 1.488,
+      "normalized": 749893.8172043011
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 89,
+      "sequence": "GTCCCG",
+      "raw": 1496984.0,
+      "od": 1.513,
+      "normalized": 989414.4084600133
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 90,
+      "sequence": "GTCACG",
+      "raw": 1414700.0,
+      "od": 1.441,
+      "normalized": 981748.7855655794
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 91,
+      "sequence": "GTATTGG",
+      "raw": 1307714.0,
+      "od": 1.753,
+      "normalized": 745986.3091842557
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 92,
+      "sequence": "GTATACG",
+      "raw": 1409188.0,
+      "od": 1.448,
+      "normalized": 973196.1325966851
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 93,
+      "sequence": "GTAACA",
+      "raw": 1217606.0,
+      "od": 1.325,
+      "normalized": 918947.9245283019
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 94,
+      "sequence": "GGTTATGA",
+      "raw": 1296898.0,
+      "od": 1.773,
+      "normalized": 731470.9531866893
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 95,
+      "sequence": "GGGGCCAC",
+      "raw": 1373052.0,
+      "od": 1.729,
+      "normalized": 794130.7113938692
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 96,
+      "sequence": "GGGCTAG",
+      "raw": 1465690.0,
+      "od": 1.423,
+      "normalized": 1030000.0
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 97,
+      "sequence": "GGCTGC",
+      "raw": 1286461.0,
+      "od": 1.97,
+      "normalized": 653025.888324873
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 98,
+      "sequence": "GGCTCC",
+      "raw": 1526204.0,
+      "od": 1.44,
+      "normalized": 1059863.888888889
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 99,
+      "sequence": "GGCCGCG",
+      "raw": 1703930.0,
+      "od": 1.679,
+      "normalized": 1014848.1238832638
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 100,
+      "sequence": "GGCATCC",
+      "raw": 1649379.0,
+      "od": 1.651,
+      "normalized": 999018.1708055724
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 101,
+      "sequence": "GGCAATT",
+      "raw": 2171239.0,
+      "od": 1.922,
+      "normalized": 1129676.8990634757
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 102,
+      "sequence": "GGAGAGCG",
+      "raw": 1656360.0,
+      "od": 1.736,
+      "normalized": 954124.4239631336
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 103,
+      "sequence": "GGACCAAC",
+      "raw": 576627.0,
+      "od": 1.194,
+      "normalized": 482937.1859296483
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 104,
+      "sequence": "GGACC",
+      "raw": 1534003.0,
+      "od": 1.918,
+      "normalized": 799793.0135557873
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 105,
+      "sequence": "GCTGGA",
+      "raw": 1517449.0,
+      "od": 1.362,
+      "normalized": 1114132.8928046988
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 106,
+      "sequence": "GCTCCATT",
+      "raw": 1666592.0,
+      "od": 1.678,
+      "normalized": 993201.4302741359
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 107,
+      "sequence": "GCTATTC",
+      "raw": 2571065.0,
+      "od": 1.912,
+      "normalized": 1344699.267782427
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 108,
+      "sequence": "GCTATGC",
+      "raw": 1136415.0,
+      "od": 1.528,
+      "normalized": 743727.0942408377
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 109,
+      "sequence": "GCGGGTG",
+      "raw": 1030229.0,
+      "od": 1.336,
+      "normalized": 771129.491017964
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 110,
+      "sequence": "GCGGCT",
+      "raw": 1155453.0,
+      "od": 1.302,
+      "normalized": 887444.7004608294
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 111,
+      "sequence": "GCGCGA",
+      "raw": 1733350.0,
+      "od": 1.974,
+      "normalized": 878090.1722391085
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 112,
+      "sequence": "GCGCCGCC",
+      "raw": 1317596.0,
+      "od": 1.573,
+      "normalized": 837632.5492689129
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 113,
+      "sequence": "GCGCAG",
+      "raw": 1276039.0,
+      "od": 1.96,
+      "normalized": 651040.306122449
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 114,
+      "sequence": "GCGCACG",
+      "raw": 851741.0,
+      "od": 1.188,
+      "normalized": 716953.7037037037
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 115,
+      "sequence": "GCGAGG",
+      "raw": 1546801.0,
+      "od": 1.888,
+      "normalized": 819280.1906779661
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 116,
+      "sequence": "GCGAAGGC",
+      "raw": 1488622.0,
+      "od": 1.584,
+      "normalized": 939786.6161616162
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 117,
+      "sequence": "GCCTTC",
+      "raw": 2116705.0,
+      "od": 1.731,
+      "normalized": 1222822.0681686886
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 118,
+      "sequence": "GCCTGGG",
+      "raw": 1843988.0,
+      "od": 1.776,
+      "normalized": 1038281.5315315315
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 119,
+      "sequence": "GCCTCA",
+      "raw": 1690096.0,
+      "od": 1.421,
+      "normalized": 1189370.8655876142
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 120,
+      "sequence": "GCCTACC",
+      "raw": 1758313.0,
+      "od": 1.781,
+      "normalized": 987261.6507580011
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 121,
+      "sequence": "GCCGGG",
+      "raw": 1842803.0,
+      "od": 1.937,
+      "normalized": 951369.6437790397
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 122,
+      "sequence": "GCCGAGG",
+      "raw": 1427019.0,
+      "od": 1.599,
+      "normalized": 892444.6529080676
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 123,
+      "sequence": "GCCATG",
+      "raw": 1526569.0,
+      "od": 1.414,
+      "normalized": 1079610.3253182461
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 124,
+      "sequence": "GCCATATG",
+      "raw": 2173388.0,
+      "od": 1.903,
+      "normalized": 1142085.1287440883
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 125,
+      "sequence": "GCCAGGT",
+      "raw": 248762.0,
+      "od": 1.284,
+      "normalized": 193739.8753894081
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 126,
+      "sequence": "GCCAGAAG",
+      "raw": 1622102.0,
+      "od": 1.502,
+      "normalized": 1079961.3848202396
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 127,
+      "sequence": "GCCACA",
+      "raw": 1119452.0,
+      "od": 1.301,
+      "normalized": 860455.0345887779
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 128,
+      "sequence": "GCCAATC",
+      "raw": 2577395.0,
+      "od": 1.94,
+      "normalized": 1328554.1237113401
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 129,
+      "sequence": "GCATCC",
+      "raw": 826491.0,
+      "od": 1.899,
+      "normalized": 435224.3285939968
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 130,
+      "sequence": "GCAGTC",
+      "raw": 1724314.0,
+      "od": 1.988,
+      "normalized": 867361.167002012
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 131,
+      "sequence": "GCAGATAC",
+      "raw": 935015.0,
+      "od": 1.337,
+      "normalized": 699338.0703066568
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 132,
+      "sequence": "GCAGAGAT",
+      "raw": 1717616.0,
+      "od": 1.847,
+      "normalized": 929949.1066594478
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 133,
+      "sequence": "GCACTT",
+      "raw": 1207383.0,
+      "od": 1.215,
+      "normalized": 993730.8641975308
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 134,
+      "sequence": "GCACTA",
+      "raw": 1217015.0,
+      "od": 1.39,
+      "normalized": 875550.3597122303
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 135,
+      "sequence": "GCACGGCA",
+      "raw": 1751754.0,
+      "od": 1.947,
+      "normalized": 899719.5685670262
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 136,
+      "sequence": "GCAACC",
+      "raw": 827047.0,
+      "od": 1.244,
+      "normalized": 664828.7781350482
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 137,
+      "sequence": "GATTAA",
+      "raw": 1696510.0,
+      "od": 1.439,
+      "normalized": 1178950.660180681
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 138,
+      "sequence": "GATGTC",
+      "raw": 1769255.0,
+      "od": 1.409,
+      "normalized": 1255681.334279631
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 139,
+      "sequence": "GATCAACC",
+      "raw": 1969117.0,
+      "od": 1.746,
+      "normalized": 1127787.5143184422
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 140,
+      "sequence": "GAGTTA",
+      "raw": 1521091.0,
+      "od": 1.426,
+      "normalized": 1066683.7307152876
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 141,
+      "sequence": "GACTTC",
+      "raw": 1602222.0,
+      "od": 1.41,
+      "normalized": 1136327.6595744682
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 142,
+      "sequence": "GACGCT",
+      "raw": 911208.0,
+      "od": 1.108,
+      "normalized": 822389.8916967509
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 143,
+      "sequence": "GACACGCC",
+      "raw": 1535642.0,
+      "od": 1.899,
+      "normalized": 808658.2411795682
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 144,
+      "sequence": "GACACC",
+      "raw": 1376885.0,
+      "od": 1.954,
+      "normalized": 704649.4370522007
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 145,
+      "sequence": "GACAAAG",
+      "raw": 1676281.0,
+      "od": 1.513,
+      "normalized": 1107918.704560476
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 146,
+      "sequence": "GAAGAAAA",
+      "raw": 1984160.0,
+      "od": 1.752,
+      "normalized": 1132511.4155251142
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 147,
+      "sequence": "GAAAAT",
+      "raw": 1872427.0,
+      "od": 1.887,
+      "normalized": 992277.1595124536
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 148,
+      "sequence": "GAAAAA",
+      "raw": 1884381.0,
+      "od": 1.434,
+      "normalized": 1314073.2217573223
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 149,
+      "sequence": "CTTTCA",
+      "raw": 2059220.0,
+      "od": 1.991,
+      "normalized": 1034264.1888498241
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 150,
+      "sequence": "CTTTAGC",
+      "raw": 1457135.0,
+      "od": 1.777,
+      "normalized": 819997.1862689927
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 151,
+      "sequence": "CTTGTC",
+      "raw": 1541555.0,
+      "od": 1.312,
+      "normalized": 1174965.7012195121
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 152,
+      "sequence": "CTTGTC",
+      "raw": 1128768.0,
+      "od": 1.432,
+      "normalized": 788245.8100558659
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 153,
+      "sequence": "CTTGTATA",
+      "raw": 2201403.0,
+      "od": 1.879,
+      "normalized": 1171582.2245875467
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 154,
+      "sequence": "CTTGATA",
+      "raw": 1902906.0,
+      "od": 1.77,
+      "normalized": 1075088.1355932204
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 155,
+      "sequence": "CTTCTAC",
+      "raw": 2348584.0,
+      "od": 1.494,
+      "normalized": 1572010.7095046854
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 156,
+      "sequence": "CTTCGC",
+      "raw": 761618.0,
+      "od": 1.902,
+      "normalized": 400430.0736067298
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 157,
+      "sequence": "CTTAGC",
+      "raw": 1535204.0,
+      "od": 1.962,
+      "normalized": 782468.9092762488
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 158,
+      "sequence": "CTGTTG",
+      "raw": 952694.0,
+      "od": 1.261,
+      "normalized": 755506.7406819984
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 159,
+      "sequence": "CTGTGA",
+      "raw": 464855.0,
+      "od": 1.129,
+      "normalized": 411740.47829938
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 160,
+      "sequence": "CTGTGA",
+      "raw": 447396.0,
+      "od": 1.797,
+      "normalized": 248968.28046744576
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 161,
+      "sequence": "CTGTATT",
+      "raw": 2280651.0,
+      "od": 1.714,
+      "normalized": 1330601.5169194867
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 162,
+      "sequence": "CTGTAC",
+      "raw": 857023.0,
+      "od": 1.851,
+      "normalized": 463005.40248514316
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 163,
+      "sequence": "CTGTAA",
+      "raw": 1315635.0,
+      "od": 1.434,
+      "normalized": 917458.1589958159
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 164,
+      "sequence": "CTGATCG",
+      "raw": 880465.0,
+      "od": 1.293,
+      "normalized": 680947.4091260635
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 165,
+      "sequence": "CTGATAG",
+      "raw": 1452922.0,
+      "od": 1.434,
+      "normalized": 1013195.2580195258
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 166,
+      "sequence": "CTGATACC",
+      "raw": 1123941.0,
+      "od": 1.755,
+      "normalized": 640422.2222222222
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 167,
+      "sequence": "CTGAGA",
+      "raw": 2071410.0,
+      "od": 1.448,
+      "normalized": 1430531.7679558012
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 168,
+      "sequence": "CTGAATGC",
+      "raw": 1261532.0,
+      "od": 1.568,
+      "normalized": 804548.469387755
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 169,
+      "sequence": "CTCTTCC",
+      "raw": 1950507.0,
+      "od": 1.786,
+      "normalized": 1092109.182530795
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 170,
+      "sequence": "CTCGCA",
+      "raw": 374807.0,
+      "od": 1.789,
+      "normalized": 209506.42817216323
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 171,
+      "sequence": "CTCCGCAC",
+      "raw": 1605671.0,
+      "od": 1.54,
+      "normalized": 1042643.5064935065
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 172,
+      "sequence": "CTCCGATA",
+      "raw": 1303786.0,
+      "od": 1.727,
+      "normalized": 754942.6751592356
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 173,
+      "sequence": "CTATTA",
+      "raw": 1632026.0,
+      "od": 1.4,
+      "normalized": 1165732.8571428573
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 174,
+      "sequence": "CTATGT",
+      "raw": 1809481.0,
+      "od": 1.994,
+      "normalized": 907462.888665998
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 175,
+      "sequence": "CTATGC",
+      "raw": 1694470.0,
+      "od": 1.856,
+      "normalized": 912968.75
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 176,
+      "sequence": "CTATCG",
+      "raw": 915008.0,
+      "od": 1.894,
+      "normalized": 483108.7645195354
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 177,
+      "sequence": "CTAGTCGC",
+      "raw": 1623029.0,
+      "od": 1.74,
+      "normalized": 932775.2873563218
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 178,
+      "sequence": "CTAGGT",
+      "raw": 1474293.0,
+      "od": 1.976,
+      "normalized": 746099.6963562754
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 179,
+      "sequence": "CTAGCCGT",
+      "raw": 1914209.0,
+      "od": 1.62,
+      "normalized": 1181610.4938271604
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 180,
+      "sequence": "CTAGCAAG",
+      "raw": 2164395.0,
+      "od": 1.857,
+      "normalized": 1165533.1179321487
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 181,
+      "sequence": "CTAGACA",
+      "raw": 1299070.0,
+      "od": 1.455,
+      "normalized": 892831.6151202748
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 182,
+      "sequence": "CTACCT",
+      "raw": 2301886.0,
+      "od": 1.445,
+      "normalized": 1593000.6920415224
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 183,
+      "sequence": "CTACCCCT",
+      "raw": 2165225.0,
+      "od": 1.894,
+      "normalized": 1143202.2175290391
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 184,
+      "sequence": "CTACAG",
+      "raw": 1719150.0,
+      "od": 1.987,
+      "normalized": 865198.7921489682
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 185,
+      "sequence": "CTAAGTG",
+      "raw": 1719387.0,
+      "od": 1.482,
+      "normalized": 1160180.16194332
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 186,
+      "sequence": "CTAACA",
+      "raw": 1819202.0,
+      "od": 1.967,
+      "normalized": 924861.2099644127
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 187,
+      "sequence": "CGTTCT",
+      "raw": 875153.0,
+      "od": 1.337,
+      "normalized": 654564.6970830217
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 188,
+      "sequence": "CGTTCA",
+      "raw": 1431195.0,
+      "od": 1.336,
+      "normalized": 1071253.74251497
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 189,
+      "sequence": "CGTGGCAC",
+      "raw": 1801664.0,
+      "od": 1.93,
+      "normalized": 933504.6632124353
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 190,
+      "sequence": "CGTATCCA",
+      "raw": 2185464.0,
+      "od": 1.544,
+      "normalized": 1415455.9585492227
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 191,
+      "sequence": "CGTAGCT",
+      "raw": 1102530.0,
+      "od": 1.347,
+      "normalized": 818507.7951002227
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 192,
+      "sequence": "CGTAGCGC",
+      "raw": 1981130.0,
+      "od": 1.601,
+      "normalized": 1237432.854465959
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 193,
+      "sequence": "CGGTGTA",
+      "raw": 1565611.0,
+      "od": 1.457,
+      "normalized": 1074544.2690459848
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 194,
+      "sequence": "CGGTACG",
+      "raw": 1761319.0,
+      "od": 1.758,
+      "normalized": 1001887.9408418657
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 195,
+      "sequence": "CGGCGC",
+      "raw": 577175.0,
+      "od": 1.65,
+      "normalized": 349803.03030303033
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 196,
+      "sequence": "CGGCACG",
+      "raw": 1284206.0,
+      "od": 1.665,
+      "normalized": 771294.8948948949
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 197,
+      "sequence": "CGGAGCAA",
+      "raw": 1631550.0,
+      "od": 1.615,
+      "normalized": 1010247.6780185759
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 198,
+      "sequence": "CGGACT",
+      "raw": 1225893.0,
+      "od": 1.314,
+      "normalized": 932947.4885844749
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 199,
+      "sequence": "CGGAATCA",
+      "raw": 1556411.0,
+      "od": 1.759,
+      "normalized": 884827.1745309836
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 200,
+      "sequence": "CGCTAGG",
+      "raw": 506481.0,
+      "od": 1.841,
+      "normalized": 275111.8957088539
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 201,
+      "sequence": "CGCTAGC",
+      "raw": 1686802.0,
+      "od": 1.419,
+      "normalized": 1188725.8632840028
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 202,
+      "sequence": "CGCGCT",
+      "raw": 222007.0,
+      "od": 1.802,
+      "normalized": 123200.33296337402
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 203,
+      "sequence": "CGCGATC",
+      "raw": 1025542.0,
+      "od": 1.541,
+      "normalized": 665504.2180402336
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 204,
+      "sequence": "CGCCTTG",
+      "raw": 1877247.0,
+      "od": 1.443,
+      "normalized": 1300933.471933472
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 205,
+      "sequence": "CGCCTGCA",
+      "raw": 1886014.0,
+      "od": 1.847,
+      "normalized": 1021122.9020032486
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 206,
+      "sequence": "CGCCGAGG",
+      "raw": 705400.0,
+      "od": 1.317,
+      "normalized": 535611.2376613516
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 207,
+      "sequence": "CGCCCTCG",
+      "raw": 1154346.0,
+      "od": 1.893,
+      "normalized": 609797.147385103
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 208,
+      "sequence": "CGCCCC",
+      "raw": 1573455.0,
+      "od": 1.958,
+      "normalized": 803603.1664964249
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 209,
+      "sequence": "CGCACGCA",
+      "raw": 1508691.0,
+      "od": 1.687,
+      "normalized": 894304.0901007706
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 210,
+      "sequence": "CGCACAC",
+      "raw": 1101154.0,
+      "od": 1.386,
+      "normalized": 794483.4054834056
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 211,
+      "sequence": "CGCAATA",
+      "raw": 240897.0,
+      "od": 1.081,
+      "normalized": 222846.43848288624
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 212,
+      "sequence": "CGCAAACG",
+      "raw": 1565298.0,
+      "od": 1.816,
+      "normalized": 861948.2378854625
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 213,
+      "sequence": "CGATTATG",
+      "raw": 1234606.0,
+      "od": 1.946,
+      "normalized": 634432.6824254883
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 214,
+      "sequence": "CGATCCAG",
+      "raw": 2098849.0,
+      "od": 1.82,
+      "normalized": 1153213.7362637362
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 215,
+      "sequence": "CGAGTA",
+      "raw": 1571383.0,
+      "od": 1.333,
+      "normalized": 1178831.9579894973
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 216,
+      "sequence": "CGACGTTT",
+      "raw": 2176082.0,
+      "od": 1.899,
+      "normalized": 1145909.4260136914
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 217,
+      "sequence": "CGACATCC",
+      "raw": 988089.0,
+      "od": 1.452,
+      "normalized": 680502.0661157025
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 218,
+      "sequence": "CGACAAAC",
+      "raw": 1861463.0,
+      "od": 1.775,
+      "normalized": 1048711.5492957747
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 219,
+      "sequence": "CGAAGGCG",
+      "raw": 1884696.0,
+      "od": 1.546,
+      "normalized": 1219078.9133247088
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 220,
+      "sequence": "CGAAGCC",
+      "raw": 2165825.0,
+      "od": 1.64,
+      "normalized": 1320625.0
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 221,
+      "sequence": "CGAAATG",
+      "raw": 1565923.0,
+      "od": 1.428,
+      "normalized": 1096584.7338935575
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 222,
+      "sequence": "CCTTCTC",
+      "raw": 920446.0,
+      "od": 1.612,
+      "normalized": 570996.2779156327
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 223,
+      "sequence": "CCTGGT",
+      "raw": 1504482.0,
+      "od": 1.989,
+      "normalized": 756401.2066365007
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 224,
+      "sequence": "CCTGAG",
+      "raw": 1581875.0,
+      "od": 1.988,
+      "normalized": 795711.7706237425
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 225,
+      "sequence": "CCTCTT",
+      "raw": 1394049.0,
+      "od": 1.915,
+      "normalized": 727962.9242819843
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 226,
+      "sequence": "CCTCGATA",
+      "raw": 536970.0,
+      "od": 1.832,
+      "normalized": 293105.8951965065
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 227,
+      "sequence": "CCTCCG",
+      "raw": 1513902.0,
+      "od": 1.357,
+      "normalized": 1115624.170965365
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 228,
+      "sequence": "CCTCCG",
+      "raw": 1407891.0,
+      "od": 1.404,
+      "normalized": 1002771.3675213676
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 229,
+      "sequence": "CCTCAA",
+      "raw": 1467496.0,
+      "od": 1.808,
+      "normalized": 811668.1415929203
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 230,
+      "sequence": "CCTAGCCG",
+      "raw": 1975263.0,
+      "od": 1.809,
+      "normalized": 1091908.7893864014
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 231,
+      "sequence": "CCTAG",
+      "raw": 1353075.0,
+      "od": 1.355,
+      "normalized": 998579.3357933579
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 232,
+      "sequence": "CCGTGA",
+      "raw": 1596005.0,
+      "od": 1.942,
+      "normalized": 821835.736354274
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 233,
+      "sequence": "CCGTAGCA",
+      "raw": 2011863.0,
+      "od": 1.791,
+      "normalized": 1123318.257956449
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 234,
+      "sequence": "CCGTAAAA",
+      "raw": 1577912.0,
+      "od": 1.745,
+      "normalized": 904247.564469914
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 235,
+      "sequence": "CCGCTGAC",
+      "raw": 968470.0,
+      "od": 1.367,
+      "normalized": 708463.7893196781
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 236,
+      "sequence": "CCGCCCAG",
+      "raw": 2298614.0,
+      "od": 1.792,
+      "normalized": 1282708.7053571427
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 237,
+      "sequence": "CCGCCATG",
+      "raw": 2504930.0,
+      "od": 1.996,
+      "normalized": 1254974.9498997997
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 238,
+      "sequence": "CCGCCAGT",
+      "raw": 2103984.0,
+      "od": 1.903,
+      "normalized": 1105614.2932212297
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 239,
+      "sequence": "CCGCCACA",
+      "raw": 1568736.0,
+      "od": 1.73,
+      "normalized": 906783.8150289018
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 240,
+      "sequence": "CCGATGC",
+      "raw": 1057653.0,
+      "od": 1.66,
+      "normalized": 637140.3614457832
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 241,
+      "sequence": "CCGATCCA",
+      "raw": 1786097.0,
+      "od": 1.941,
+      "normalized": 920194.2297784647
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 242,
+      "sequence": "CCGAGA",
+      "raw": 1404006.0,
+      "od": 1.412,
+      "normalized": 994338.5269121814
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 243,
+      "sequence": "CCGAAA",
+      "raw": 2036147.0,
+      "od": 1.398,
+      "normalized": 1456471.3876967097
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 244,
+      "sequence": "CCGAAA",
+      "raw": 1561614.0,
+      "od": 1.766,
+      "normalized": 884266.1381653454
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 245,
+      "sequence": "CCCTTT",
+      "raw": 1548583.0,
+      "od": 1.37,
+      "normalized": 1130352.5547445253
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 246,
+      "sequence": "CCCTTCG",
+      "raw": 596827.0,
+      "od": 1.555,
+      "normalized": 383811.575562701
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 247,
+      "sequence": "CCCTGC",
+      "raw": 1645100.0,
+      "od": 1.969,
+      "normalized": 835500.2539360081
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 248,
+      "sequence": "CCCTCA",
+      "raw": 1500279.0,
+      "od": 1.444,
+      "normalized": 1038974.376731302
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 249,
+      "sequence": "CCCGTA",
+      "raw": 1649618.0,
+      "od": 1.42,
+      "normalized": 1161702.8169014086
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 250,
+      "sequence": "CCCGCTG",
+      "raw": 2234864.0,
+      "od": 1.648,
+      "normalized": 1356106.7961165048
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 251,
+      "sequence": "CCCGCC",
+      "raw": 1506952.0,
+      "od": 1.368,
+      "normalized": 1101573.0994152045
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 252,
+      "sequence": "CCCGAG",
+      "raw": 1375646.0,
+      "od": 1.455,
+      "normalized": 945461.1683848797
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 253,
+      "sequence": "CCCCGTGC",
+      "raw": 1545414.0,
+      "od": 1.787,
+      "normalized": 864809.1773922776
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 254,
+      "sequence": "CCCCGCGT",
+      "raw": 1293264.0,
+      "od": 1.7,
+      "normalized": 760743.5294117647
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 255,
+      "sequence": "CCCCCGTT",
+      "raw": 1767837.0,
+      "od": 1.801,
+      "normalized": 981586.3409217102
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 256,
+      "sequence": "CCCCCA",
+      "raw": 1768891.0,
+      "od": 1.452,
+      "normalized": 1218244.4903581268
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 257,
+      "sequence": "CCCCAAGC",
+      "raw": 2310573.0,
+      "od": 1.767,
+      "normalized": 1307624.7877758914
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 258,
+      "sequence": "CCCATGC",
+      "raw": 1426327.0,
+      "od": 1.393,
+      "normalized": 1023924.6231155779
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 259,
+      "sequence": "CCCAATCT",
+      "raw": 2271768.0,
+      "od": 1.675,
+      "normalized": 1356279.4029850746
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 260,
+      "sequence": "CCCAAG",
+      "raw": 1485399.0,
+      "od": 1.508,
+      "normalized": 985012.599469496
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 261,
+      "sequence": "CCATCGC",
+      "raw": 1540787.0,
+      "od": 1.456,
+      "normalized": 1058232.8296703298
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 262,
+      "sequence": "CCATCACG",
+      "raw": 1703668.0,
+      "od": 1.542,
+      "normalized": 1104843.0609597925
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 263,
+      "sequence": "CCATCACC",
+      "raw": 1224541.0,
+      "od": 1.638,
+      "normalized": 747583.0280830282
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 264,
+      "sequence": "CCAGTTC",
+      "raw": 1813208.0,
+      "od": 1.721,
+      "normalized": 1053578.1522370714
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 265,
+      "sequence": "CCAGGGG",
+      "raw": 1023917.0,
+      "od": 1.324,
+      "normalized": 773351.2084592144
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 266,
+      "sequence": "CCAGAC",
+      "raw": 1271612.0,
+      "od": 1.912,
+      "normalized": 665069.0376569038
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 267,
+      "sequence": "CCAGAC",
+      "raw": 1219623.0,
+      "od": 1.985,
+      "normalized": 614419.6473551637
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 268,
+      "sequence": "CCAGAAGA",
+      "raw": 932799.0,
+      "od": 1.428,
+      "normalized": 653220.5882352941
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 269,
+      "sequence": "CCACGAA",
+      "raw": 1511952.0,
+      "od": 1.333,
+      "normalized": 1134247.5618904727
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 270,
+      "sequence": "CCACGA",
+      "raw": 1520962.0,
+      "od": 1.298,
+      "normalized": 1171773.497688752
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 271,
+      "sequence": "CCACCGTG",
+      "raw": 1193833.0,
+      "od": 1.721,
+      "normalized": 693685.64787914
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 272,
+      "sequence": "CCACCG",
+      "raw": 1314070.0,
+      "od": 1.336,
+      "normalized": 983585.3293413173
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 273,
+      "sequence": "CCACAG",
+      "raw": 951427.0,
+      "od": 1.319,
+      "normalized": 721324.4882486733
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 274,
+      "sequence": "CCACAAC",
+      "raw": 1281342.0,
+      "od": 1.384,
+      "normalized": 925825.1445086705
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 275,
+      "sequence": "CCAAGTGG",
+      "raw": 1417452.0,
+      "od": 1.769,
+      "normalized": 801273.0356133409
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 276,
+      "sequence": "CCAACCC",
+      "raw": 1108067.0,
+      "od": 1.379,
+      "normalized": 803529.3691080493
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 277,
+      "sequence": "CCAACACG",
+      "raw": 318028.0,
+      "od": 1.412,
+      "normalized": 225232.29461756375
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 278,
+      "sequence": "CATTC",
+      "raw": 1885890.0,
+      "od": 1.926,
+      "normalized": 979174.4548286605
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 279,
+      "sequence": "CATGTGGC",
+      "raw": 1820552.0,
+      "od": 1.926,
+      "normalized": 945250.2596053998
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 280,
+      "sequence": "CATCGC",
+      "raw": 1068656.0,
+      "od": 1.922,
+      "normalized": 556012.486992716
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 281,
+      "sequence": "CATCCGAA",
+      "raw": 1515989.0,
+      "od": 1.831,
+      "normalized": 827956.8541780448
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 282,
+      "sequence": "CATCC",
+      "raw": 1670464.0,
+      "od": 1.375,
+      "normalized": 1214882.9090909092
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 283,
+      "sequence": "CAGTCCG",
+      "raw": 1471772.0,
+      "od": 1.409,
+      "normalized": 1044550.7452093683
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 284,
+      "sequence": "CAGGAC",
+      "raw": 1491805.0,
+      "od": 1.393,
+      "normalized": 1070929.648241206
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 285,
+      "sequence": "CAGGAAGG",
+      "raw": 2207731.0,
+      "od": 1.868,
+      "normalized": 1181868.8436830835
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 286,
+      "sequence": "CAGCCC",
+      "raw": 988159.0,
+      "od": 1.799,
+      "normalized": 549282.3790994998
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 287,
+      "sequence": "CAGCCATC",
+      "raw": 2128428.0,
+      "od": 1.861,
+      "normalized": 1143701.2358946803
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 288,
+      "sequence": "CAGAACCC",
+      "raw": 1759933.0,
+      "od": 1.482,
+      "normalized": 1187539.1363022942
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 289,
+      "sequence": "CAGAAAT",
+      "raw": 982369.0,
+      "od": 1.346,
+      "normalized": 729843.2392273402
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 290,
+      "sequence": "CACTTCAC",
+      "raw": 2191868.0,
+      "od": 1.995,
+      "normalized": 1098680.7017543858
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 291,
+      "sequence": "CACTGA",
+      "raw": 1426165.0,
+      "od": 1.081,
+      "normalized": 1319301.5726179464
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 292,
+      "sequence": "CACTCACA",
+      "raw": 1436195.0,
+      "od": 1.648,
+      "normalized": 871477.5485436894
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 293,
+      "sequence": "CACGTT",
+      "raw": 1463819.0,
+      "od": 1.984,
+      "normalized": 737811.9959677419
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 294,
+      "sequence": "CACGTGGC",
+      "raw": 1343642.0,
+      "od": 1.705,
+      "normalized": 788059.8240469208
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 295,
+      "sequence": "CACGCCG",
+      "raw": 433530.0,
+      "od": 1.659,
+      "normalized": 261320.07233273055
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 296,
+      "sequence": "CACGCCCT",
+      "raw": 1388964.0,
+      "od": 1.974,
+      "normalized": 703629.179331307
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 297,
+      "sequence": "CACCTACT",
+      "raw": 1049142.0,
+      "od": 1.426,
+      "normalized": 735723.7026647966
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 298,
+      "sequence": "CACCCCAA",
+      "raw": 1378725.0,
+      "od": 1.47,
+      "normalized": 937908.1632653062
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 299,
+      "sequence": "CACATACA",
+      "raw": 2251793.0,
+      "od": 1.884,
+      "normalized": 1195219.2144373674
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 300,
+      "sequence": "CACAGTG",
+      "raw": 1125497.0,
+      "od": 1.352,
+      "normalized": 832468.1952662722
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 301,
+      "sequence": "CACAGGG",
+      "raw": 575499.0,
+      "od": 1.215,
+      "normalized": 473661.7283950617
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 302,
+      "sequence": "CACAGAG",
+      "raw": 1083395.0,
+      "od": 1.377,
+      "normalized": 786779.2302106027
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 303,
+      "sequence": "CACACTGG",
+      "raw": 1253313.0,
+      "od": 1.52,
+      "normalized": 824548.0263157894
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 304,
+      "sequence": "CAATCGGC",
+      "raw": 1544599.0,
+      "od": 1.77,
+      "normalized": 872654.802259887
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 305,
+      "sequence": "CAATCGCC",
+      "raw": 1307512.0,
+      "od": 1.806,
+      "normalized": 723982.2812846069
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 306,
+      "sequence": "CAAGTGC",
+      "raw": 1565188.0,
+      "od": 1.848,
+      "normalized": 846963.2034632034
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 307,
+      "sequence": "CAAGCA",
+      "raw": 1866543.0,
+      "od": 1.945,
+      "normalized": 959662.2107969151
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 308,
+      "sequence": "CAAGACC",
+      "raw": 1043785.0,
+      "od": 1.355,
+      "normalized": 770321.0332103322
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 309,
+      "sequence": "CAACTTCG",
+      "raw": 1526203.0,
+      "od": 1.555,
+      "normalized": 981481.0289389068
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 310,
+      "sequence": "CAACTAAA",
+      "raw": 1602389.0,
+      "od": 1.43,
+      "normalized": 1120551.7482517483
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 311,
+      "sequence": "CAACCCA",
+      "raw": 1255341.0,
+      "od": 1.633,
+      "normalized": 768733.0067360686
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 312,
+      "sequence": "CAACAT",
+      "raw": 531788.0,
+      "od": 1.868,
+      "normalized": 284683.0835117773
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 313,
+      "sequence": "CAACAACC",
+      "raw": 726898.0,
+      "od": 1.318,
+      "normalized": 551515.93323217
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 314,
+      "sequence": "CAACAA",
+      "raw": 533512.0,
+      "od": 1.209,
+      "normalized": 441283.70554177003
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 315,
+      "sequence": "CAAATAAA",
+      "raw": 2241107.0,
+      "od": 1.974,
+      "normalized": 1135312.5633232016
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 316,
+      "sequence": "CAAAGAGC",
+      "raw": 1573868.0,
+      "od": 1.73,
+      "normalized": 909750.2890173411
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 317,
+      "sequence": "ATTTCT",
+      "raw": 2194789.0,
+      "od": 1.679,
+      "normalized": 1307200.1191185229
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 318,
+      "sequence": "ATTTCCT",
+      "raw": 1693008.0,
+      "od": 1.538,
+      "normalized": 1100785.4356306891
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 319,
+      "sequence": "ATTGGG",
+      "raw": 1173416.0,
+      "od": 1.803,
+      "normalized": 650813.0892956185
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 320,
+      "sequence": "ATTGACAA",
+      "raw": 2081880.0,
+      "od": 1.823,
+      "normalized": 1142007.6796489304
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 321,
+      "sequence": "ATTAGCCG",
+      "raw": 2156392.0,
+      "od": 1.989,
+      "normalized": 1084158.8738059325
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 322,
+      "sequence": "ATGTAC",
+      "raw": 1365364.0,
+      "od": 1.97,
+      "normalized": 693078.1725888324
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 323,
+      "sequence": "ATGCGC",
+      "raw": 1001355.0,
+      "od": 1.877,
+      "normalized": 533486.94725626
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 324,
+      "sequence": "ATGCGC",
+      "raw": 964661.0,
+      "od": 1.894,
+      "normalized": 509324.7096092925
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 325,
+      "sequence": "ATGCGAAC",
+      "raw": 2387883.0,
+      "od": 1.823,
+      "normalized": 1309864.509051015
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 326,
+      "sequence": "ATGCAGCA",
+      "raw": 1718035.0,
+      "od": 1.966,
+      "normalized": 873873.3468972533
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 327,
+      "sequence": "ATGCAGCA",
+      "raw": 1094331.0,
+      "od": 1.425,
+      "normalized": 767951.5789473684
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 328,
+      "sequence": "ATGCACG",
+      "raw": 1779499.0,
+      "od": 1.501,
+      "normalized": 1185542.3051299134
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 329,
+      "sequence": "ATCTGC",
+      "raw": 1528732.0,
+      "od": 1.375,
+      "normalized": 1111805.0909090908
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 330,
+      "sequence": "ATCTCCCG",
+      "raw": 2047517.0,
+      "od": 1.612,
+      "normalized": 1270171.8362282878
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 331,
+      "sequence": "ATCGCCAC",
+      "raw": 928120.0,
+      "od": 1.428,
+      "normalized": 649943.9775910365
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 332,
+      "sequence": "ATCCGGG",
+      "raw": 930254.0,
+      "od": 1.436,
+      "normalized": 647809.1922005571
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 333,
+      "sequence": "ATCCGCTG",
+      "raw": 2096824.0,
+      "od": 1.692,
+      "normalized": 1239257.6832151301
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 334,
+      "sequence": "ATCCCTCA",
+      "raw": 2076743.0,
+      "od": 1.814,
+      "normalized": 1144841.7861080484
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 335,
+      "sequence": "ATCCACCA",
+      "raw": 1656467.0,
+      "od": 1.712,
+      "normalized": 967562.5
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 336,
+      "sequence": "ATATGGCC",
+      "raw": 1355486.0,
+      "od": 1.828,
+      "normalized": 741513.1291028446
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 337,
+      "sequence": "ATAGGT",
+      "raw": 1491821.0,
+      "od": 1.976,
+      "normalized": 754970.1417004048
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 338,
+      "sequence": "ATACCGG",
+      "raw": 1244202.0,
+      "od": 1.427,
+      "normalized": 871900.4905395935
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 339,
+      "sequence": "ATACAAG",
+      "raw": 967604.0,
+      "od": 1.328,
+      "normalized": 728617.469879518
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 340,
+      "sequence": "ATAACGTA",
+      "raw": 1573654.0,
+      "od": 1.471,
+      "normalized": 1069785.180149558
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 341,
+      "sequence": "ATAAATAG",
+      "raw": 1915842.0,
+      "od": 1.532,
+      "normalized": 1250549.6083550914
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 342,
+      "sequence": "AGTTTA",
+      "raw": 1403751.0,
+      "od": 1.956,
+      "normalized": 717664.1104294478
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 343,
+      "sequence": "AGTTCG",
+      "raw": 1507887.0,
+      "od": 1.955,
+      "normalized": 771297.6982097187
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 344,
+      "sequence": "AGTTATG",
+      "raw": 842246.0,
+      "od": 1.735,
+      "normalized": 485444.3804034582
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 345,
+      "sequence": "AGTCGCCC",
+      "raw": 2235072.0,
+      "od": 1.697,
+      "normalized": 1317072.4808485562
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 346,
+      "sequence": "AGTCGCAA",
+      "raw": 1833756.0,
+      "od": 1.702,
+      "normalized": 1077412.455934195
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 347,
+      "sequence": "AGTCATGC",
+      "raw": 2051732.0,
+      "od": 1.922,
+      "normalized": 1067498.4391259106
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 348,
+      "sequence": "AGGGGCG",
+      "raw": 1876400.0,
+      "od": 1.638,
+      "normalized": 1145543.3455433457
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 349,
+      "sequence": "AGGCTTTA",
+      "raw": 2180221.0,
+      "od": 1.681,
+      "normalized": 1296978.5841760857
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 350,
+      "sequence": "AGGCCCTG",
+      "raw": 1867164.0,
+      "od": 1.784,
+      "normalized": 1046616.5919282511
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 351,
+      "sequence": "AGGCCCGA",
+      "raw": 1644427.0,
+      "od": 1.778,
+      "normalized": 924874.5781777278
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 352,
+      "sequence": "AGGCCA",
+      "raw": 874688.0,
+      "od": 1.946,
+      "normalized": 449479.95889003086
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 353,
+      "sequence": "AGGCAACG",
+      "raw": 2238210.0,
+      "od": 1.822,
+      "normalized": 1228435.7848518111
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 354,
+      "sequence": "AGGAAT",
+      "raw": 1658035.0,
+      "od": 1.982,
+      "normalized": 836546.4177598385
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 355,
+      "sequence": "AGCTGG",
+      "raw": 1536777.0,
+      "od": 1.995,
+      "normalized": 770314.2857142857
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 356,
+      "sequence": "AGCTCCAA",
+      "raw": 1883857.0,
+      "od": 1.881,
+      "normalized": 1001518.8729399255
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 357,
+      "sequence": "AGCGGAT",
+      "raw": 1587698.0,
+      "od": 1.554,
+      "normalized": 1021684.6846846846
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 358,
+      "sequence": "AGCCGAAC",
+      "raw": 1377209.0,
+      "od": 1.612,
+      "normalized": 854348.0148883375
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 359,
+      "sequence": "AGCATAAG",
+      "raw": 1903028.0,
+      "od": 1.905,
+      "normalized": 998964.8293963254
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 360,
+      "sequence": "AGCACGC",
+      "raw": 284239.0,
+      "od": 1.204,
+      "normalized": 236078.90365448507
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 361,
+      "sequence": "AGCACATC",
+      "raw": 2285094.0,
+      "od": 1.704,
+      "normalized": 1341017.605633803
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 362,
+      "sequence": "AGATAGC",
+      "raw": 2273470.0,
+      "od": 1.885,
+      "normalized": 1206084.8806366047
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 363,
+      "sequence": "AGAGACCT",
+      "raw": 2027754.0,
+      "od": 1.667,
+      "normalized": 1216409.1181763648
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 364,
+      "sequence": "AGACATGT",
+      "raw": 2232249.0,
+      "od": 1.625,
+      "normalized": 1373691.6923076923
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 365,
+      "sequence": "AGAATGT",
+      "raw": 1577844.0,
+      "od": 1.519,
+      "normalized": 1038738.6438446346
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 366,
+      "sequence": "AGAACACG",
+      "raw": 1253952.0,
+      "od": 1.527,
+      "normalized": 821186.6404715128
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 367,
+      "sequence": "AGAAAAAA",
+      "raw": 2422709.0,
+      "od": 1.999,
+      "normalized": 1211960.48024012
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 368,
+      "sequence": "ACTTGCG",
+      "raw": 1491729.0,
+      "od": 1.532,
+      "normalized": 973713.4464751958
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 369,
+      "sequence": "ACTTAAAG",
+      "raw": 2129076.0,
+      "od": 1.831,
+      "normalized": 1162794.101583834
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 370,
+      "sequence": "ACTGATAC",
+      "raw": 1208197.0,
+      "od": 1.396,
+      "normalized": 865470.630372493
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 371,
+      "sequence": "ACTCGC",
+      "raw": 1029349.0,
+      "od": 1.296,
+      "normalized": 794250.7716049382
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 372,
+      "sequence": "ACTCCC",
+      "raw": 958236.0,
+      "od": 1.934,
+      "normalized": 495468.45915201656
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 373,
+      "sequence": "ACTCCACG",
+      "raw": 1050285.0,
+      "od": 1.39,
+      "normalized": 755600.7194244604
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 374,
+      "sequence": "ACTCCAAC",
+      "raw": 1302100.0,
+      "od": 1.494,
+      "normalized": 871552.8781793842
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 375,
+      "sequence": "ACGTTACA",
+      "raw": 1494797.0,
+      "od": 1.772,
+      "normalized": 843564.8984198646
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 376,
+      "sequence": "ACGGGT",
+      "raw": 1284611.0,
+      "od": 1.834,
+      "normalized": 700442.2028353326
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 377,
+      "sequence": "ACGGGCAC",
+      "raw": 1182808.0,
+      "od": 1.828,
+      "normalized": 647050.3282275711
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 378,
+      "sequence": "ACGCCA",
+      "raw": 1117737.0,
+      "od": 1.729,
+      "normalized": 646464.4303065356
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 379,
+      "sequence": "ACGACCC",
+      "raw": 627135.0,
+      "od": 1.504,
+      "normalized": 416978.0585106383
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 380,
+      "sequence": "ACGACACC",
+      "raw": 410551.0,
+      "od": 1.166,
+      "normalized": 352102.05831903947
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 381,
+      "sequence": "ACGAAA",
+      "raw": 2223990.0,
+      "od": 1.938,
+      "normalized": 1147569.6594427244
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 382,
+      "sequence": "ACCTGGG",
+      "raw": 1826131.0,
+      "od": 1.99,
+      "normalized": 917653.7688442211
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 383,
+      "sequence": "ACCTCTCG",
+      "raw": 1616526.0,
+      "od": 1.829,
+      "normalized": 883830.5084745763
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 384,
+      "sequence": "ACCTCATC",
+      "raw": 1177613.0,
+      "od": 1.757,
+      "normalized": 670240.7512805919
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 385,
+      "sequence": "ACCTAAC",
+      "raw": 1933629.0,
+      "od": 1.63,
+      "normalized": 1186275.4601226994
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 386,
+      "sequence": "ACCGTCAT",
+      "raw": 577153.0,
+      "od": 1.651,
+      "normalized": 349577.8316172017
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 387,
+      "sequence": "ACCGT",
+      "raw": 1624112.0,
+      "od": 1.964,
+      "normalized": 826940.9368635438
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 388,
+      "sequence": "ACCGCC",
+      "raw": 632540.0,
+      "od": 1.234,
+      "normalized": 512593.19286871963
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 389,
+      "sequence": "ACCGAC",
+      "raw": 1010934.0,
+      "od": 1.235,
+      "normalized": 818570.0404858299
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 390,
+      "sequence": "ACCCGC",
+      "raw": 1196162.0,
+      "od": 1.922,
+      "normalized": 622352.7575442247
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 391,
+      "sequence": "ACCCCTG",
+      "raw": 1903310.0,
+      "od": 1.991,
+      "normalized": 955956.8056253139
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 392,
+      "sequence": "ACCCCGAC",
+      "raw": 1647873.0,
+      "od": 1.862,
+      "normalized": 885001.6111707841
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 393,
+      "sequence": "ACCCCAC",
+      "raw": 1505322.0,
+      "od": 1.593,
+      "normalized": 944960.4519774012
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 394,
+      "sequence": "ACCATGGC",
+      "raw": 1211350.0,
+      "od": 1.69,
+      "normalized": 716775.1479289941
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 395,
+      "sequence": "ACCACT",
+      "raw": 1284333.0,
+      "od": 1.984,
+      "normalized": 647345.2620967742
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 396,
+      "sequence": "ACCACG",
+      "raw": 844957.0,
+      "od": 1.331,
+      "normalized": 634828.7002253945
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 397,
+      "sequence": "ACCACC",
+      "raw": 1328093.0,
+      "od": 1.925,
+      "normalized": 689918.4415584415
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 398,
+      "sequence": "ACATCACG",
+      "raw": 506885.0,
+      "od": 1.472,
+      "normalized": 344351.222826087
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 399,
+      "sequence": "ACAGTTCC",
+      "raw": 2014962.0,
+      "od": 1.862,
+      "normalized": 1082149.3018259935
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 400,
+      "sequence": "ACAGTACC",
+      "raw": 647630.0,
+      "od": 1.231,
+      "normalized": 526100.7311129163
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 401,
+      "sequence": "ACAGATC",
+      "raw": 1003596.0,
+      "od": 1.357,
+      "normalized": 739569.6389093589
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 402,
+      "sequence": "ACACTCTA",
+      "raw": 1348004.0,
+      "od": 1.486,
+      "normalized": 907135.935397039
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 403,
+      "sequence": "ACACTCCA",
+      "raw": 1408723.0,
+      "od": 1.749,
+      "normalized": 805444.8256146369
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 404,
+      "sequence": "ACACACA",
+      "raw": 190357.0,
+      "od": 1.14,
+      "normalized": 166979.8245614035
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 405,
+      "sequence": "ACAAGCC",
+      "raw": 1276609.0,
+      "od": 1.676,
+      "normalized": 761699.8806682578
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 406,
+      "sequence": "ACAAGACC",
+      "raw": 707620.0,
+      "od": 1.943,
+      "normalized": 364189.3978383942
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 407,
+      "sequence": "ACAAGACA",
+      "raw": 760665.0,
+      "od": 1.75,
+      "normalized": 434665.71428571426
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 408,
+      "sequence": "ACAACC",
+      "raw": 272628.0,
+      "od": 1.845,
+      "normalized": 147765.8536585366
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 409,
+      "sequence": "ACAAAG",
+      "raw": 989513.0,
+      "od": 1.311,
+      "normalized": 754777.2692601068
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 410,
+      "sequence": "ACAAACGA",
+      "raw": 1041686.0,
+      "od": 1.309,
+      "normalized": 795787.6241405654
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 411,
+      "sequence": "AATGTAAC",
+      "raw": 2130586.0,
+      "od": 1.879,
+      "normalized": 1133893.5604044704
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 412,
+      "sequence": "AATGTAAC",
+      "raw": 1771937.0,
+      "od": 1.862,
+      "normalized": 951631.0418904404
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 413,
+      "sequence": "AATGACCG",
+      "raw": 1683054.0,
+      "od": 1.782,
+      "normalized": 944474.7474747475
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 414,
+      "sequence": "AATCAGGC",
+      "raw": 1708002.0,
+      "od": 1.699,
+      "normalized": 1005298.4108299
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 415,
+      "sequence": "AATCACC",
+      "raw": 320073.0,
+      "od": 1.488,
+      "normalized": 215102.82258064515
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 416,
+      "sequence": "AATACC",
+      "raw": 1003322.0,
+      "od": 1.401,
+      "normalized": 716147.0378301213
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 417,
+      "sequence": "AAGGACG",
+      "raw": 1523069.0,
+      "od": 1.812,
+      "normalized": 840545.8057395143
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 418,
+      "sequence": "AAGCTACC",
+      "raw": 1876165.0,
+      "od": 1.851,
+      "normalized": 1013595.3538627769
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 419,
+      "sequence": "AAGCCACC",
+      "raw": 2097586.0,
+      "od": 1.987,
+      "normalized": 1055654.7559134373
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 420,
+      "sequence": "AAGAAGCG",
+      "raw": 2345596.0,
+      "od": 1.725,
+      "normalized": 1359765.7971014492
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 421,
+      "sequence": "AAGAAAG",
+      "raw": 1540069.0,
+      "od": 1.491,
+      "normalized": 1032910.1274312541
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 422,
+      "sequence": "AACGCATC",
+      "raw": 2287427.0,
+      "od": 1.641,
+      "normalized": 1393922.6081657526
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 423,
+      "sequence": "AACCTGG",
+      "raw": 2264852.0,
+      "od": 1.945,
+      "normalized": 1164448.3290488431
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 424,
+      "sequence": "AACCTACA",
+      "raw": 2453623.0,
+      "od": 1.892,
+      "normalized": 1296840.9090909092
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 425,
+      "sequence": "AACCCAAG",
+      "raw": 283815.0,
+      "od": 1.796,
+      "normalized": 158026.16926503342
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 426,
+      "sequence": "AACCAGTT",
+      "raw": 2215966.0,
+      "od": 1.715,
+      "normalized": 1292108.4548104955
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 427,
+      "sequence": "AACCAGTG",
+      "raw": 2297257.0,
+      "od": 1.688,
+      "normalized": 1360934.2417061613
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 428,
+      "sequence": "AACATCCA",
+      "raw": 1686481.0,
+      "od": 1.637,
+      "normalized": 1030226.634086744
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 429,
+      "sequence": "AACACG",
+      "raw": 1427767.0,
+      "od": 1.919,
+      "normalized": 744016.1542470036
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 430,
+      "sequence": "AACACCCA",
+      "raw": 1356777.0,
+      "od": 1.752,
+      "normalized": 774416.095890411
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 431,
+      "sequence": "AACACCCA",
+      "raw": 1119547.0,
+      "od": 1.789,
+      "normalized": 625794.8574622695
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 432,
+      "sequence": "AAAGCCAG",
+      "raw": 2218444.0,
+      "od": 1.936,
+      "normalized": 1145890.4958677685
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 433,
+      "sequence": "AAAGCCAG",
+      "raw": 1668689.0,
+      "od": 1.704,
+      "normalized": 979277.5821596244
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 434,
+      "sequence": "AAACCATA",
+      "raw": 1690869.0,
+      "od": 1.544,
+      "normalized": 1095122.4093264248
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 435,
+      "sequence": "AAAAGCA",
+      "raw": 2069995.0,
+      "od": 1.878,
+      "normalized": 1102233.759318424
+    },
+    {
+      "group": "Initial library",
+      "excel_row": 436,
+      "sequence": "AAAAACGC",
+      "raw": 1292168.0,
+      "od": 1.593,
+      "normalized": 811153.7978656623
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 2,
+      "sequence": "GCTAATC",
+      "raw": 3138454.0,
+      "od": 1.932,
+      "normalized": 1624458.5921325053
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 3,
+      "sequence": "CTTCTAA",
+      "raw": 2348584.0,
+      "od": 1.494,
+      "normalized": 1572010.7095046854
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 4,
+      "sequence": "ATTTCC",
+      "raw": 2695789.0,
+      "od": 1.719,
+      "normalized": 1568230.9482257126
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 5,
+      "sequence": "TCCTCAAA",
+      "raw": 2141226.0,
+      "od": 1.395,
+      "normalized": 1534929.0322580645
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 6,
+      "sequence": "ACGAAA",
+      "raw": 1702727.0,
+      "od": 1.34,
+      "normalized": 1270691.791044776
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 7,
+      "sequence": "TACGCCC",
+      "raw": 2354173.0,
+      "od": 1.601,
+      "normalized": 1470439.1005621487
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 8,
+      "sequence": "CCACAAA",
+      "raw": 1973630.0,
+      "od": 1.15,
+      "normalized": 1716200.0
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 9,
+      "sequence": "TTGCCA",
+      "raw": 1963827.0,
+      "od": null,
+      "normalized": 1198537.0
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 10,
+      "sequence": "ATTTCC",
+      "raw": 2081456.0,
+      "od": null,
+      "normalized": 1568231.0
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 11,
+      "sequence": "CTAGCT",
+      "raw": 2301886.0,
+      "od": 1.401,
+      "normalized": 1643030.6923625981
+    },
+    {
+      "group": "Round 1",
+      "excel_row": 13,
+      "sequence": "TATTTT",
+      "raw": null,
+      "od": null,
+      "normalized": null
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 2,
+      "sequence": "CCACAGA",
+      "raw": 2718950.0,
+      "od": 1.614,
+      "normalized": 1684580.0
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 3,
+      "sequence": "CCACAAG",
+      "raw": 3210186.0,
+      "od": 1.79,
+      "normalized": 1793400.0
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 4,
+      "sequence": "TTTCCA",
+      "raw": 2488998.0,
+      "od": 1.51,
+      "normalized": 1648343.0463576159
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 5,
+      "sequence": "ATTTCT",
+      "raw": 2476468.0,
+      "od": 1.512,
+      "normalized": 1637875.6613756614
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 6,
+      "sequence": "ATTCCT",
+      "raw": 2254028.0,
+      "od": 1.344,
+      "normalized": 1677104.1666666665
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 7,
+      "sequence": "TATTCT",
+      "raw": 2801158.0,
+      "od": 1.62,
+      "normalized": 1729109.8765432097
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 8,
+      "sequence": "TTTTCG",
+      "raw": 2785988.0,
+      "od": 1.717,
+      "normalized": 1622590.5649388467
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 9,
+      "sequence": null,
+      "raw": 2081456.0,
+      "od": 1.2279,
+      "normalized": 1695134.782962782
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 10,
+      "sequence": "GTCCCTC",
+      "raw": null,
+      "od": null,
+      "normalized": 1718161.0
+    },
+    {
+      "group": "Round 2",
+      "excel_row": 11,
+      "sequence": null,
+      "raw": null,
+      "od": null,
+      "normalized": 1706635.0
+    }
+  ],
+  "policy": "All finite numeric measurements retained, including missing sequence labels. No outlier filtering or replicate averaging. Normalized values as stored, not recalculated."
+}

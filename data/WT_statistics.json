@@ -1,0 +1,120 @@
+{
+  "source": "C:\\Users\\admin\\Desktop\\FXY\\OMG\\GAL\\New Data.xlsx",
+  "sha256": "08144cedeb3534214f9b3c0d9203b37619b75e221dafdc1b3f8329df989c4b74",
+  "results": [
+    {
+      "metric": "raw",
+      "group_a": "Initial library",
+      "group_b": "Round 1",
+      "n_a": 420,
+      "n_b": 7,
+      "shared_sequences_excluded": [
+        "ACGAAA",
+        "TTGCCA"
+      ],
+      "U": 159.0,
+      "p": 5.188038600799604e-05,
+      "method": "asymptotic",
+      "p_holm": 0.0001556411580239881
+    },
+    {
+      "metric": "raw",
+      "group_a": "Initial library",
+      "group_b": "Round 2",
+      "n_a": 421,
+      "n_b": 6,
+      "shared_sequences_excluded": [
+        "ATTTCT"
+      ],
+      "U": 27.0,
+      "p": 1.3173908914603373e-09,
+      "method": "exact",
+      "p_holm": 6.586954457301686e-09
+    },
+    {
+      "metric": "raw",
+      "group_a": "Round 1",
+      "group_b": "Round 2",
+      "n_a": 9,
+      "n_b": 7,
+      "shared_sequences_excluded": [],
+      "U": 10.0,
+      "p": 0.022902097902097907,
+      "method": "exact",
+      "p_holm": 0.022902097902097907
+    },
+    {
+      "metric": "normalized",
+      "group_a": "Initial library",
+      "group_b": "Round 1",
+      "n_a": 420,
+      "n_b": 7,
+      "shared_sequences_excluded": [
+        "ACGAAA",
+        "TTGCCA"
+      ],
+      "U": 9.0,
+      "p": 6.476378423858873e-06,
+      "method": "asymptotic",
+      "p_holm": 2.5905513695435493e-05
+    },
+    {
+      "metric": "normalized",
+      "group_a": "Initial library",
+      "group_b": "Round 2",
+      "n_a": 421,
+      "n_b": 7,
+      "shared_sequences_excluded": [
+        "ATTTCT"
+      ],
+      "U": 0.0,
+      "p": 4.025053747580779e-15,
+      "method": "exact",
+      "p_holm": 2.4150322485484674e-14
+    },
+    {
+      "metric": "normalized",
+      "group_a": "Round 1",
+      "group_b": "Round 2",
+      "n_a": 9,
+      "n_b": 8,
+      "shared_sequences_excluded": [],
+      "U": 8.0,
+      "p": 0.005512134923899629,
+      "method": "exact",
+      "p_holm": 0.011024269847799258
+    }
+  ],
+  "summaries": {
+    "raw": {
+      "wt_mean": 427236.5,
+      "wt_n": 2,
+      "maximum_record": {
+        "group": "Round 2",
+        "excel_row": 3,
+        "sequence": "CCACAAG",
+        "raw": 3210186.0,
+        "od": 1.79,
+        "normalized": 1793400.0
+      },
+      "maximum_fold": 7.513838354166837,
+      "note": "Maximum observation / mean WT; descriptive, not replicated effect estimate."
+    },
+    "normalized": {
+      "wt_mean": 275912.5216919506,
+      "wt_n": 2,
+      "maximum_record": {
+        "group": "Round 2",
+        "excel_row": 3,
+        "sequence": "CCACAAG",
+        "raw": 3210186.0,
+        "od": 1.79,
+        "normalized": 1793400.0
+      },
+      "maximum_fold": 6.499886228441222,
+      "note": "Maximum observation / mean WT; descriptive, not replicated effect estimate."
+    }
+  },
+  "statistical_scope": "Exploratory two-sided Mann-Whitney tests. Sequence means within each stage; sequences shared by a tested pair excluded from both groups; unidentified records excluded from tests only. Holm correction over six tests. Adaptive selection and related sequence backgrounds limit independent-sample inference; no causal GAL-vs-AL claim.",
+  "display": "All finite numeric observations retained as in workbook. n denotes observations, not biological replicates. Stored normalized values used without imputation."
+}
